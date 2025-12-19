@@ -1,0 +1,7 @@
+pandas
+requests
+langchain
+langchain-core
+langchain-community
+langchain-google-genai # For using the Gemini model
+streamlit
